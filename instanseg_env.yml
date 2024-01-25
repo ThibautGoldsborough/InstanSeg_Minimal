@@ -4,7 +4,6 @@ channels:
   - nvidia
   - pytorch
 dependencies:
-  - nvidia::cudatoolkit=11.5
   - python=3.9
   - ipykernel=6.28.0
   - ipywidgets=8.1.1
